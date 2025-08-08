@@ -1,1 +1,1 @@
-Manoj's git
+echo Manoj's git
